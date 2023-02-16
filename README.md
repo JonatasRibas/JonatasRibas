@@ -16,7 +16,7 @@
   <img align="center" alt="Jow-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Jow-"Java height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"fa-sharp fa-solid fa-block-question">
-  <img align="center" alt="Jow-Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg">
+  <img align="center" alt="Jow-Code" height="30" width="40" src="#">
 </div>
   
   ##
