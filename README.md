@@ -6,8 +6,8 @@
 
 
 
-- 🔭 I’m working with front end 
-- 🌱 I’m currently learning React
+- 🔭 I’m working with front end!
+- 🌱 I’m currently learning React!
 - 💬 Phrase: One life, one chance! 
 - 📫 How to reach me: ribasjonatas@gmail.com
 
